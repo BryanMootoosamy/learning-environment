@@ -2,7 +2,7 @@
 
 ![L'équipe carolo](https://scontent.fbru3-1.fna.fbcdn.net/v/t31.0-8/21688181_583339048681298_1362532787281484538_o.jpg?oh=903cec79894015fc2855a8e15e83b876&oe=5AE2D198)
 
-## Idéal pour l'optimisation de notre environnement de travail au Quai 10 ##
+## Propositions pour l'optimisation de notre environnement de travail au Quai 10 ##
 
 ##### Environnement #####
 * Déco
@@ -39,6 +39,7 @@
    1. Badges
    1. Horaires souples
 
+(https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 ### Liens utiles ###
 
