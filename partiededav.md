@@ -41,6 +41,8 @@
 
 
 
-   <script type="text/javascript">
-   alert("Hello!");
-    </script>
+'''javascript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+'''
