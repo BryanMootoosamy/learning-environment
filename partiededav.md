@@ -4,9 +4,9 @@
 
 ##### Environnement #####
 * Déco
-    * Plantes
-    * Posters
-    * Couleurs
+    1. Plantes
+    1. Posters
+    1. Couleurs
 
 * Agencement (Isoloir)
 
@@ -22,11 +22,11 @@
   1. Horloge
 * Relationnel
   1. Entraide
-    * Co-voiturage
-    * Remédiation
+      * Co-voiturage
+      * Remédiation
   1. Bonne humeur
   1. Communication
 * Pause
   1. Jeux de société
-  1. Activité sportive 
+  1. Activité sportive
 * Accessibilité
