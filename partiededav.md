@@ -4,6 +4,6 @@
 
 * Environnement
   1. Déco
-    *Plantes
-    *Posters
+  1  Plantes
+  1  Posters
   2. Agencement
