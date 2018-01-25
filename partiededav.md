@@ -1,5 +1,7 @@
 # L'expérience BeCode
 
+![L'équipe carolo](https://scontent.fbru3-1.fna.fbcdn.net/v/t31.0-8/21688181_583339048681298_1362532787281484538_o.jpg?oh=903cec79894015fc2855a8e15e83b876&oe=5AE2D198)
+
 ## Idéal pour l'optimisation de notre environnement de travail au Quai 10 ##
 
 ##### Environnement #####
@@ -41,6 +43,8 @@
 ### Liens utiles ###
 
 Pour s'inscrire : <http://www.becode.org/register/register_fr.html>
+[Codeacademy pour s'entraîner](https://www.codecademy.com/fr)
+
 
 ```javascript
 <script type="text/javascript">
