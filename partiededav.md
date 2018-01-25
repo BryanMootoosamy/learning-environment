@@ -36,3 +36,11 @@
    1. Ascenseur
    1. Badges
    1. Horaires souples
+
+
+
+
+
+   <script type="text/javascript">
+   alert("Hello!");
+    </script>
