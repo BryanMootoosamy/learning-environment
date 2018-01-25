@@ -14,7 +14,7 @@ l'apprentissage BeCode permet de s'approprier des langages back-en et front-end,
   * jQuery : faciliter l'écriture de scripts côté client
   * Angular : structurer et produire une application web robuste et efficace
 
- * Le BACK - END concerne :
+* Le BACK - END concerne :
   * Introduction à l'algorithmique
   * Algorithmique avancée
   * Conception et administration d'une base de données SQL
