@@ -2,7 +2,7 @@
 
 ![L'équipe carolo](https://scontent.fbru3-1.fna.fbcdn.net/v/t31.0-8/21688181_583339048681298_1362532787281484538_o.jpg?oh=903cec79894015fc2855a8e15e83b876&oe=5AE2D198)
 
-Qu'est-ce qu'un environnement d'apprentissage optimisé?
+*Qu'est-ce qu'un environnement d'apprentissage optimisé?*
 
 Intégrer BeCode.org est un engagement dans une formation intensive. C’est aussi rejoindre
 une communauté et un écosystème ; celui du numérique au sens large et de l’innovation
