@@ -39,7 +39,7 @@
    1. Badges
    1. Horaires souples
 
-(https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+![Kitten](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 ### Liens utiles ###
 
