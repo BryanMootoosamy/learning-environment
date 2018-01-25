@@ -1,6 +1,6 @@
 # L'expérience BeCode
 
-## Sous titre 1 ##
+## Idéal pour l'optimisation de notre environnement de travail au Quai 10 ##
 
 ##### Environnement #####
 * Déco
@@ -35,4 +35,4 @@
 * Accessibilité
    1. Ascenseur
    1. Badges
-   1. Horaires souples 
+   1. Horaires souples
