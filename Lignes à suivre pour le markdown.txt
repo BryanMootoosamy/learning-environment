@@ -1,0 +1,13 @@
+En ce qui concerne le fichier  md, la meilleure façon de coder les différentes parties est dans Atom en ouvrant le md avec.
+
+
+Quand vous avez sauvé votre travail:
+
+dans la console git :
+git commit -m "Le nom du changement que vous avez fait"
+
+git push lePrénom
+
+
+Revérifiez sur GitHub si ça s'affiche bien car github permet de lre directement sur son interface un 
+md de la manière dont il a été codé
