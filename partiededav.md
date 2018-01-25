@@ -38,11 +38,12 @@
    1. Horaires souples
 
 
+### Liens utiles ###
 
+Pour s'inscrire : <http://www.becode.org/register/register_fr.html>
 
-
-'''javascript
+```javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
-'''
+```
