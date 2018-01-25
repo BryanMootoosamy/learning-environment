@@ -29,4 +29,10 @@
 * Pause
   1. Jeux de société
   1. Activité sportive
+  1. Hamac
+  1. Radio
+  1. Magazines/livres
 * Accessibilité
+   1. Ascenseur
+   1. Badges
+   1. Horaires souples 
